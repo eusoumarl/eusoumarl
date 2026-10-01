@@ -10,7 +10,7 @@ Atuo na integração entre **gestão**, **tecnologia** e **informação**, promo
 
 Atuo há mais de **15 anos com gestão documental**, com experiência em escritórios de advocacia e empresas de diversos portes. Minha trajetória envolve desde a organização de arquivos físicos e digitais até a **liderança de projetos de digitalização, automação de processos e implantação de sistemas de gestão documental**.
 
-Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análise de dados**, com foco em **Python, SQL e Power BI**, buscando unir experiência prática de negócio com inteligência analítica.
+Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análise de dados**, buscando unir experiência prática de negócio com inteligência analítica.
 
 ---
 
@@ -33,8 +33,6 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 * Automação de Processos
 * Análise de Dados
 * Business Intelligence
-* Segurança da Informação
-* LGPD
 
 ---
 
@@ -54,10 +52,7 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ## 🌱 Atualmente estudando
 
-* Arquivologia | Uniasselvi
 * MBA | Preservação e Gestão de Documentos Digitais | Anhaguera Educacional
-* Fundamentos de Linguagem Python - Do Básico a Aplicação de IA | D.S.A
-* Microsoft Power BI Para Business Intelligence e Data Science | D.S.A
 
 ---
 
